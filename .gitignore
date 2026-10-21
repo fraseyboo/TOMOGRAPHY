@@ -4,3 +4,7 @@
 /converted_A005_reduced.gdml
 /hidden
 /tomographie.root
+*.root
+*.dat
+exports/
+.vscode/settings.json

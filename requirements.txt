@@ -1,0 +1,13 @@
+# Numerical processing and plotting
+numpy>=1.23,<2
+matplotlib>=3.7,<4
+
+# ROOT tomography input
+uproot>=5.1,<6
+
+# 3D rendering, contouring, simplification, and mesh export
+vtk>=9.3,<10
+
+# Legacy OBJ-to-GDML conversion script
+tqdm>=4.64,<5
+PyQt5>=5.15,<6
